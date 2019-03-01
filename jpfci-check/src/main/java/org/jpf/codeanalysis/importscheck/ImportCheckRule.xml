@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AI_ImportCheckRule>
+	<CheckRule>
+		<PkgName>org.jpf.ci</PkgName>
+		<ExcludePkg>java.sql</ExcludePkg>
+		<ExcludePkg>java.sql</ExcludePkg>
+		<ExcludePkg>java.sql</ExcludePkg>
+	</CheckRule>
+	<CheckRule>
+		<PkgName>org.jpf.taobao</PkgName>
+		<ExcludePkg>java.sql</ExcludePkg>
+		<ExcludePkg>java.sql</ExcludePkg>
+		<ExcludePkg>java.sql</ExcludePkg>
+	</CheckRule>
+</AI_ImportCheckRule>
