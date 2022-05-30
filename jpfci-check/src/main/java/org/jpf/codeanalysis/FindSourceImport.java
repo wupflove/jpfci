@@ -1,5 +1,5 @@
 /**
- * @author wupf@asiainfo. com 查找代码对应的IMPORT
+ * @author 421722623@qq.com 查找代码对应的IMPORT
  */
 package org.jpf.codeanalysis;
 

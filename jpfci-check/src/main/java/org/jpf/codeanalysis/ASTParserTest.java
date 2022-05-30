@@ -1,5 +1,5 @@
 /**
- * @author 吴平福 E-mail:wupf@asiainfo.com
+ * @author 吴平福 E-mail:421722623@qq.com
  * @version 创建时间：2017年8月30日 下午6:42:47 类说明
  */
 
@@ -32,7 +32,7 @@ import org.eclipse.jdt.core.dom.VariableDeclarationStatement;
 
 
 public class ASTParserTest {
-    private static final String filePath = "E:\\\\svn\\\\svn10.3.3.233\\\\newcrm_jx_modules\\\\newcrm_jx_soa\\\\src\\\\main\\\\java\\\\com\\\\asiainfo\\\\crm\\\\soa\\\\ams\\\\function\\\\AmBalanceFunction.java";
+    private static final String filePath = "E:\\\\svn\\\\svn10.3.3.233\\\\newcrm_jx_modules\\\\newcrm_jx_soa\\\\src\\\\main\\\\java\\\\com\\\\\\\crm\\\\soa\\\\ams\\\\function\\\\AmBalanceFunction.java";
 
     @SuppressWarnings("unchecked")
     public static void main(String[] args) throws IOException {

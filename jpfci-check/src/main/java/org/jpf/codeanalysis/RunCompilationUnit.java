@@ -1,6 +1,6 @@
 /** 
 * @author 吴平福 
-* E-mail:wupf@asiainfo.com 
+* E-mail:421722623@qq.com 
 * @version 创建时间：2017年5月22日 上午10:42:41 
 * 类说明 
 */ 
@@ -67,8 +67,8 @@ public class RunCompilationUnit {
     public static void main(String[] args)
     {
         try {
-            getCompilationUnit("E:\\svn\\svn10.3.3.233\\newcrm_jx_modules\\newcrm_jx_common\\src\\main\\java\\com\\asiainfo\\crm\\common\\constant\\MixBusiSoOrderCenterEntryEnum.java");    
-            getCompilationUnit("E:\\svn\\svn10.3.3.233\\newcrm_jx_modules\\newcrm_jx_common\\src\\main\\java\\com\\asiainfo\\crm\\common\\constant\\OmConstEX.java");   
+            getCompilationUnit("E:\\svn\\src\\main\\java\\com\\crm\\common\\constant\\MixBusiSoOrderCenterEntryEnum.java");    
+            getCompilationUnit("E:\\svn\\src\\main\\java\\com\\crm\\common\\constant\\OmConstEX.java");   
         } catch (Exception ex) {
             // TODO: handle exception
             ex.printStackTrace();

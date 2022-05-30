@@ -1,6 +1,6 @@
 /** 
  * @author 吴平福 
- * E-mail:wupf@asiainfo-linkage.com 
+ * E-mail:421722623@qq.com 
  * @version 创建时间：2013-4-16 下午1:33:28 
  * 类说明 
  */
@@ -41,7 +41,7 @@ public class SonarAvg
 				strEXCLUDE_PRJ_ID_Cond = " and t1.id in(" + RptDevConst.getIncludePrjId(strCfg) + ")";
 			} else
 			{
-				throw new Exception("no EXCLUDE_PRJ_ID config,connect to wupf@asiainfo.com");
+				throw new Exception("no EXCLUDE_PRJ_ID config,connect to 421722623@qq.com");
 			}
 			logger.info("metric_id=" + RptDevConst.getPRJ_AVG_METRIC(strCfg));
 			String[] metrics = RptDevConst.getPRJ_AVG_METRIC(strCfg).split(",");

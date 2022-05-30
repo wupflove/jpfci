@@ -1,5 +1,5 @@
 /**
- * @author wupf@asiainfo. com
+ * @author 421722623@qq.com
  */
 package org.jpf.codeanalysis;
 

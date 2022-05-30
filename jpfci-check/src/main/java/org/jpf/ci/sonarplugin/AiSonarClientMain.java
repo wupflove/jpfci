@@ -1,6 +1,6 @@
 /** 
 * @author 吴平福 
-* E-mail:wupf@asiainfo.com 
+* E-mail:421722623@qq.com 
 * @version 创建时间：2017年7月16日 上午9:24:35 
 * 类说明 
 */ 
@@ -79,7 +79,7 @@ public class AiSonarClientMain extends JFrame  implements ActionListener {
     public AiSonarClientMain() {
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setBounds(100, 100, 550, 700);
-        setTitle("Asiainfo SONAR Client");
+        setTitle("SONAR Client");
         contentPane = new JPanel();
         contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
         contentPane.setLayout(new BorderLayout(0, 0));

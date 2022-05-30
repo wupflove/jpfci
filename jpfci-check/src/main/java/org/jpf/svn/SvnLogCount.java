@@ -1,6 +1,6 @@
 /** 
  * @author ��ƽ�� 
- * E-mail:wupf@asiainfo-linkage.com 
+ * E-mail:421722623@qq.com 
  * @version ����ʱ�䣺2013-8-14 ����5:03:26 
  * ��˵�� 
  */

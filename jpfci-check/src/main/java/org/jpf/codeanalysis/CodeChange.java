@@ -1,5 +1,5 @@
 /**
- * @author wupf@asiainfo. com
+ * @author 421722623@qq.com
  * 根据SVN编号查找代码变化情况，粒度到函数级别
  */
 package org.jpf.codeanalysis;

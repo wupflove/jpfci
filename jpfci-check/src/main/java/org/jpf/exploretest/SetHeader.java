@@ -1,6 +1,5 @@
 /** 
- * @author 谭亮 
- * E-mail:tanliang@asiainfo.com 
+ * @author 421722623@qq.com
  * @version 创建时间：2016-5-25 下午3:04:18 
  * 类说明 
  */

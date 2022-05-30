@@ -1,6 +1,6 @@
 /** 
 * @author 吴平福 
-* E-mail:wupf@asiainfo.com 
+* E-mail:421722623@qq.com 
 * @version 创建时间：2017年8月30日 下午5:11:17 
 * 类说明 
 */ 
@@ -31,7 +31,7 @@ public class ReadJavaNote {
         // TODO Auto-generated constructor stub
         try {
             String sourceString =
-                    "E:\\svn\\svn10.3.3.233\\newcrm_jx_modules\\newcrm_jx_soa\\src\\main\\java\\com\\asiainfo\\crm\\soa\\ams\\function\\AmBalanceFunction.java";
+                    "E:\\svn\\src\\main\\java\\com\\crm\\soa\\ams\\function\\AmBalanceFunction.java";
             sourceString = CodeAnalysisUtil.getFileTxt(sourceString);
             ASTParser astParser = ASTParser.newParser(AST.JLS4);
             astParser.setKind(ASTParser.K_COMPILATION_UNIT);

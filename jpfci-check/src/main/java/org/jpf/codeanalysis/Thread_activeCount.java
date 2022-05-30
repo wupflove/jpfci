@@ -1,6 +1,6 @@
 /** 
 * @author 吴平福 
-* E-mail:wupf@asiainfo.com 
+* E-mail:421722623@qq.com 
 * @version 创建时间：2017年7月21日 上午11:25:14 
 * 类说明 
 */ 
@@ -25,10 +25,10 @@ public class Thread_activeCount
         System.out.println("thread name : " + thread.getName());
         logger.info("thread count : " +  Thread.activeCount());
         SvnChangeInfo cSvnChangeInfo=new SvnChangeInfo(); 
-        cSvnChangeInfo.setChangeFileName("http://10.3.3.233/svn/products/openboss/newcrm_jx_modules/newcrm_jx_ams/src/main/java/com/asiainfo/crm/center/ams/inter/out/service/impl/Am2UmmpSVImpl.java");
+        cSvnChangeInfo.setChangeFileName("http://svn/products/openboss/src/main/java/com/crm/center/ams/inter/out/service/impl/Am2UmmpSVImpl.java");
         Vector<String> vChangeMethods = new Vector<String>();
         ClassModify cClassModify= new ClassModify(vChangeMethods, cSvnChangeInfo, "2017-05-02",
-                "2017-05-02", "liaocj", "liaocj",1);
+                "2017-05-02", "", "",1);
         cClassModify.setName("ClassModify1");
         cClassModify.start();
         logger.info("Thread.activeCount()= " + Thread.activeCount());

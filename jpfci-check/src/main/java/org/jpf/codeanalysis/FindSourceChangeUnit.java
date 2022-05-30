@@ -1,5 +1,5 @@
 /**
- * @author wupf@asiainfo. com 查找代码对应的单元测试
+ * @author 421722623@qq.com 查找代码对应的单元测试
  */
 package org.jpf.codeanalysis;
 
